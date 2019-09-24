@@ -1,0 +1,19 @@
+{
+  "name": "code-doodle-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "dist": "parcel build index.html -d docs --public-url /boids/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  },
+  "dependencies": {
+    "three": "^0.108.0"
+  }
+}
