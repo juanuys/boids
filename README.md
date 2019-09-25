@@ -1,8 +1,18 @@
-[Boids paper](./research/10.1.1.103.7187.pdf)
+[Show me the boids!](https://juanuys.com/boids/)
+
+(scroll to zoom; click-hold to rotate, double-click-hold to move)
+
+![preview](https://repository-images.githubusercontent.com/210620137/86145c80-dee1-11e9-8f21-289b8f145371)
+
+
+# Resources
+
+- [Boids paper](./research/10.1.1.103.7187.pdf)
+- [pseudo-code](http://www.vergenet.net/~conrad/boids/pseudocode.html)
 
 # Notes
 
-# Simulated flocks (p28)
+## Simulated flocks (p28)
 
 Boid model that supports geometric flight.
 
