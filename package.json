@@ -14,6 +14,6 @@
     "parcel-bundler": "^1.12.3"
   },
   "dependencies": {
-    "three": "^0.108.0"
+    "three": "^0.125.0"
   }
 }
